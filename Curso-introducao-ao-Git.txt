@@ -1,0 +1,37 @@
+Curso Introdução ao Git e COntrole de Versões.
+
+Controle de versão: 
+São formas de gerenciar a evolução do código fonte.
+
+Um sistema de controle de versões é:
+	• Um software que tem a finalidade de gerenciar difenrentes versões no desenvolvimento de um documento.
+
+Ferramentas para controle de versão:
+
+	• Subversion / SVN
+	• Mercurial
+	• CVS
+	• GIT
+
+Conhecendo o GIT
+
+GTI é um sistema de controle de versão distribuído e um sistema de gerenciamento de código fonte, com ênfase em velocidade.
+
+Principais comandos GIT
+
+Comandos básicos:
+
+	• git init
+	• git clone
+	• git add . ou git add <<nome_arquivo>>
+	• git commit -m 'mensagem de commit'
+	• git push - Publica as alterações e comentários para o servidor remoto;
+	• git pull - Atualiza o repositório local com o que existe no servidor;
+	• git merge - Ajuntar as branch que temos, ou resolver conflitos;
+	• git status - retorna o estatus do nosso trabalho atual
+	• git log - mostra os commits que foram feitos no trabalho
+	• git branch <<nome da branch>> - cria ramos separados de trabalho, para implementar novos recursos no projeto; Serve para visualizar a listagem de todas as branchs criadas no repositório local.
+
+Visite: https://git-scm.com/docs
+
+	• touch
